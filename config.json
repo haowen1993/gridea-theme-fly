@@ -45,8 +45,8 @@
       "note": "链接地址"
     },
     {
-      "name": "twitter",
-      "label": "Twitter",
+      "name": "instagram",
+      "label": "Instagram",
       "group": "社交",
       "value": "",
       "type": "input",
